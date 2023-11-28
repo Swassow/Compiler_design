@@ -1,0 +1,126 @@
+Main:
+{
+	
+
+	# Variable declaration
+
+	INTEGER a,b,c;
+	FLOAT x,y,z;
+	CHAR p,q;
+	ARRAY INTEGER N (10);
+	ARRAY CHAR C (5);
+
+
+	# variable assignment
+
+	a=10;
+	b=5;
+	c=0;
+
+	c=a+b;
+	SHOW(c);
+	
+	c=a-b;
+	SHOW(c);
+
+	c=a*b;
+	SHOW(c);
+
+	c=a/b;
+	SHOW(c);
+
+	#  Mathematical Expression
+	
+	LOG(123);
+	
+	2^8;
+	
+	SIN(30);
+
+	
+
+
+
+	IF(1>0)
+	{
+		2-4;
+	}
+	ELSE
+	{
+		4-2;
+	}
+
+	# Nested IF ELSE
+	IF (1>0)
+	{
+		IF(0>1)
+		{
+			5+2;
+		}
+		ELSE
+		{
+			5-2;
+		}
+
+	}
+	ELSE 
+	{
+		IF(0>1)
+		{
+			1+2;
+		}
+		ELSE
+		{
+			2+3;
+		}
+
+	}
+
+
+	#Function declaration
+
+	FUNCTION A (10)
+	{
+		c=a+b;
+
+	}
+
+	FUNCTION B (a)
+	{
+		2+5;	
+	}
+
+	# For Loop block
+	FOR (2,18,1)
+	{
+		4+8;
+	}
+
+
+
+ 	#  While Loop Block
+	WHILE (2<10)
+	{
+
+		1+1;
+	}
+
+
+
+	
+
+	#Switch Case
+	
+	SWITCH (2)
+	{
+	CASE 1: 10+20;
+
+	CASE 2: 33-19;
+
+	CASE 3: 9-15;
+
+	DEFAULT : 22-15;
+	
+	}
+	
+}	

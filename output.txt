@@ -1,0 +1,396 @@
+
+Main Function Start
+
+Single line Comment found :: # Variable declaration
+interger declaration
+a
+b
+c
+
+variable Dection
+
+.........................................
+Declaration
+float declaration
+x
+y
+z
+
+variable Dection
+
+.........................................
+Declaration
+char declaration
+p
+q
+
+variable Dection
+
+.........................................
+Declaration
+interger declaration
+N
+ARRAY Declaration
+Size of the ARRAY is : 10
+
+.........................................
+char declaration
+C
+ARRAY Declaration
+Size of the ARRAY is : 5
+
+.........................................
+
+Single line Comment found :: # variable assignment
+a
+
+Number :  10
+
+Value of the variable: 10
+
+.........................................
+b
+
+Number :  5
+
+Value of the variable: 5
+
+.........................................
+c
+
+Number :  0
+
+Value of the variable: 0
+
+.........................................
+c
+a
+b
+
+Addition :10+5 = 15 
+
+Value of the variable: 15
+
+.........................................
+c
+
+Print Expression 15
+
+.........................................
+c
+a
+b
+
+Subtraction :10-5=5 
+ 
+Value of the variable: 5
+
+.........................................
+c
+
+Print Expression 5
+
+.........................................
+c
+a
+b
+
+Multiplication :10*5 
+ 
+Value of the variable: 50
+
+.........................................
+c
+
+Print Expression 50
+
+.........................................
+c
+a
+b
+
+Division :10/5 
+ 
+Value of the variable: 2
+
+.........................................
+c
+
+Print Expression 2
+
+.........................................
+
+Single line Comment found :: #  Mathematical Expression
+
+Number :  123
+
+Value of Log(123) is : 4.812184
+
+value of expression: 4
+
+.........................................
+
+Number :  2
+
+Number :  8
+
+Power  :2 ^ 8 
+
+value of expression: 256
+
+.........................................
+
+Number :  30
+
+Value of Sin(30) is : 0.500001
+
+value of expression: 0
+
+.........................................
+
+Number :  1
+
+Number :  0
+
+Greater than :1 > 0 
+ 
+Number :  2
+
+Number :  4
+
+Subtraction :2-4=-2 
+ 
+value of expression: -2
+
+.........................................
+
+Number :  4
+
+Number :  2
+
+Subtraction :4-2=2 
+ 
+value of expression: 2
+
+.........................................
+value of expression in IF: -2
+
+.........................................
+
+Single line Comment found :: # Nested IF ELSE
+
+Number :  1
+
+Number :  0
+
+Greater than :1 > 0 
+ 
+Number :  0
+
+Number :  1
+
+Greater than :0 > 1 
+ 
+Number :  5
+
+Number :  2
+
+Addition :5+2 = 7 
+
+value of expression: 7
+
+.........................................
+
+Number :  5
+
+Number :  2
+
+Subtraction :5-2=3 
+ 
+value of expression: 3
+
+.........................................
+value of expression in ELSE: 59
+
+.........................................
+
+Number :  0
+
+Number :  1
+
+Greater than :0 > 1 
+ 
+Number :  1
+
+Number :  2
+
+Addition :1+2 = 3 
+
+value of expression: 3
+
+.........................................
+
+Number :  2
+
+Number :  3
+
+Addition :2+3 = 5 
+
+value of expression: 5
+
+.........................................
+value of expression in ELSE: 59
+
+.........................................
+value of expression in IF: 41
+
+.........................................
+
+Single line Comment found :: #Function declaration
+FUNCTION A
+
+Number :  10
+c
+a
+b
+
+Addition :10+5 = 15 
+
+Value of the variable: 15
+
+.........................................
+FUNCTION found :  
+Function Parameter : 10
+Function internal block statement : 15
+
+.........................................
+FUNCTION B
+a
+
+Number :  2
+
+Number :  5
+
+Addition :2+5 = 7 
+
+value of expression: 7
+
+.........................................
+FUNCTION found :  
+Function Parameter : 10
+Function internal block statement : 7
+
+.........................................
+
+Single line Comment found :: # For Loop block
+
+Number :  4
+
+Number :  8
+
+Addition :4+8 = 12 
+
+value of expression: 12
+
+.........................................
+FOR Loop execution
+value of the  i: 2 expression value : 12
+
+value of the  i: 3 expression value : 12
+
+value of the  i: 4 expression value : 12
+
+value of the  i: 5 expression value : 12
+
+value of the  i: 6 expression value : 12
+
+value of the  i: 7 expression value : 12
+
+value of the  i: 8 expression value : 12
+
+value of the  i: 9 expression value : 12
+
+value of the  i: 10 expression value : 12
+
+value of the  i: 11 expression value : 12
+
+value of the  i: 12 expression value : 12
+
+value of the  i: 13 expression value : 12
+
+value of the  i: 14 expression value : 12
+
+value of the  i: 15 expression value : 12
+
+value of the  i: 16 expression value : 12
+
+value of the  i: 17 expression value : 12
+
+.........................................
+
+Single line Comment found :: #  While Loop Block
+
+Number :  1
+
+Number :  1
+
+Addition :1+1 = 2 
+
+value of expression: 2
+
+.........................................
+WHILE Loop execution
+value of the loop: 2 expression value: 2
+
+value of the loop: 3 expression value: 2
+
+value of the loop: 4 expression value: 2
+
+value of the loop: 5 expression value: 2
+
+value of the loop: 6 expression value: 2
+
+value of the loop: 7 expression value: 2
+
+value of the loop: 8 expression value: 2
+
+value of the loop: 9 expression value: 2
+
+.........................................
+
+Single line Comment found :: #Switch Case
+
+Number :  10
+
+Number :  20
+
+Addition :10+20 = 30 
+Case No : 1 & expression value :30 
+
+Number :  33
+
+Number :  19
+
+Subtraction :33-19=14 
+ Case No : 2 & expression value :14 
+
+Number :  9
+
+Number :  15
+
+Subtraction :9-15=-6 
+ Case No : 3 & expression value :-6 
+
+Number :  22
+
+Number :  15
+
+Subtraction :22-15=7 
+ 
+Default case & expression value : 7
+SWITCH CASE Declaration
+
+Finally Choose Case number :-> 2
+
+.........................................
+Main function END
